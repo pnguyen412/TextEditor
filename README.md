@@ -11,6 +11,9 @@
 - Install node modules through the command 'npm install' in git bash
 - Use command 'npm start' to run the application
 
+- Link to live application: https://texteditor-9ggz.onrender.com
+- Link to my git repo: https://github.com/pnguyen412/TextEditor
+
 ![screenshot1](images/Screenshot1.png)
 ![screenshot1](images/Screenshot2.png)
 ![screenshot1](images/Screenshot3.png)
